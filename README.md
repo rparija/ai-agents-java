@@ -171,6 +171,11 @@ Throughout this course, you'll gain insights into:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## NOTE
+In the project run confioguration need to add the env key for LLM.
+<img width="2412" height="2037" alt="image" src="https://github.com/user-attachments/assets/3766a070-5e00-4ff0-9d3e-54441e4033e4" />
+
+
 ## Acknowledgements
 
 - [Jules White](https://www.coursera.org/instructor/juleswhite) - Course Instructor
@@ -178,5 +183,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The developers of the LLM libraries used in this course
 
 ---
+
 
 Happy agent building! 🤖✨
